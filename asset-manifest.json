@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textgame/static/css/main.e6c13ad2.css",
+    "main.js": "/textgame/static/js/main.b7727185.js",
+    "static/js/787.e6c11190.chunk.js": "/textgame/static/js/787.e6c11190.chunk.js",
+    "index.html": "/textgame/index.html",
+    "main.e6c13ad2.css.map": "/textgame/static/css/main.e6c13ad2.css.map",
+    "main.b7727185.js.map": "/textgame/static/js/main.b7727185.js.map",
+    "787.e6c11190.chunk.js.map": "/textgame/static/js/787.e6c11190.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b7727185.js"
+  ]
+}
